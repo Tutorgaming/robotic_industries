@@ -9,3 +9,7 @@
 7. [PickNik](https://picknik.ai/)
 8. [Hebi Robotics](https://www.hebirobotics.com/)
 9. [Kinova Robotics](https://www.kinovarobotics.com/en)
+10. [Barret](https://www.barrett.com/)
+11. [Aethon](https://aethon.com/)
+12. [Swisslog](https://www.swisslog.com/)
+13. [iRobot](https://irobot.in/)
