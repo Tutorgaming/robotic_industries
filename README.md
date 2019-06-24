@@ -26,3 +26,6 @@
 24. [Amazon Robotics](https://www.amazonrobotics.com/)
 25. [Kawasaki Robotics](https://robotics.kawasaki.com/en1/index.html?language_id=4)
 26. [Galen Robotics](http://www.galenrobotics.com/)
+27. [Nimble Robotics](https://nimble.ai/)
+28. [Carbon Robotics](https://carbon.ai/)
+29. [xyz Robotics](https://www.xyzrobotics.ai/)
