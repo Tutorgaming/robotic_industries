@@ -3,18 +3,18 @@
 Introduction
 ------------
 
-There is a lot of ~~hidden~~ treasure lying scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics.
+There is a lot of ~~hidden~~ treasure lying scattered across the internet. This list is an attempt to bring to light those awesome robotics company.
 
 Table of Contents
 -----------------
 
-1. [Humanoid]()
-2. [Manipulators]()
-3. [Legged]()
-3. [Actuator]()
-5. [Medical]()
-6. [Drones]()
-7. [Industrial Robots]()
+1. [Humanoid](https://github.com/ajaygunalan/Robotics-Company#humanoid)
+2. [Manipulators](https://github.com/ajaygunalan/Robotics-Company#manipulators)
+3. [Legged](https://github.com/ajaygunalan/Robotics-Company#legged)
+3. [Actuator](https://github.com/ajaygunalan/Robotics-Company#actuator)
+5. [Medical](https://github.com/ajaygunalan/Robotics-Company#medical)
+6. [Drones](https://github.com/ajaygunalan/Robotics-Company#drones)
+7. [Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#industrial-robots)
 
 
 Courses
