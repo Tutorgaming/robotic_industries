@@ -21,3 +21,5 @@
 19. [KUKA](https://www.kuka.com/en-in)
 20. [ABB](https://new.abb.com/)
 21. [Yaskawa](https://www.yaskawa.com/)
+22. [DJI](https://www.dji.com/)
+23. [UBtech](https://ubtrobot.com/)
