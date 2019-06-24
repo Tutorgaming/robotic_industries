@@ -23,3 +23,6 @@
 21. [Yaskawa](https://www.yaskawa.com/)
 22. [DJI](https://www.dji.com/)
 23. [UBtech](https://ubtrobot.com/)
+24. [Amazon Robotics](https://www.amazonrobotics.com/)
+25. [Kawasaki Robotics](https://robotics.kawasaki.com/en1/index.html?language_id=4)
+26. [Galen Robotics](http://www.galenrobotics.com/)
