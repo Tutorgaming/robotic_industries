@@ -1,4 +1,55 @@
-# Robotics-Company
+
+
+Introduction
+------------
+
+There is a lot of ~~hidden~~ treasure lying scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics.
+
+Table of Contents
+-----------------
+
+1. [Humanoid]()
+2. [Manipulators]()
+3. [Legged]()
+3. [Actuator]()
+5. [Medical]()
+6. [Drones]()
+7. [Industrial Robots]()
+
+
+Courses
+-------
+
+--------
+### Humanoid
+
+--------
+### Manipulators
+
+--------
+### Legged
+
+--------
+### Actuator
+
+--------
+### Medical
+
+--------
+### Drones
+
+--------
+### Industrial Robots
+
+
+
+
+
+
+
+
+
+
 
 1. [Boston Dynamics](https://www.bostondynamics.com/)
 2. [Aeolus Robotics](https://aeolusbot.com/)
