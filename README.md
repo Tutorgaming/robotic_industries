@@ -7,3 +7,5 @@
 5. [Reach Robotics](https://reachrobotics.com/)
 6. [Clearpath Robotics](https://clearpathrobotics.com/)
 7. [PickNik](https://picknik.ai/)
+8. [Hebi Robotics](https://www.hebirobotics.com/)
+9. [Kinova Robotics](https://www.kinovarobotics.com/en)
