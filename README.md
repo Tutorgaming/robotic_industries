@@ -33,21 +33,25 @@ Courses
 ### Actuator
 
 --------
-### Medical
+### Medical Robotics
 
-Auris Health
-CMR Surgical's Versius
-Hansen Medical
-Mazor Robotics
-MedRobotics
-MedTech
-Microbot Medical
-Sharp Health Care
-Titan Medical
-Transenterix
-Verb Surgical
-Sig Tuple (India)
-
+* [Auris Health]()
+* [Blue Belt Technologies]()
+* [CMR Surgical's Versius]()
+* [Corindus Vascular Robotics]()
+* [Hansen Medical]()
+* [Intuitive Surgical]()
+* [Mako Surgical]()
+* [Mazor Robotics]()
+* [MedRobotics]()
+* [MedTech Innovative Surgical Technology]()
+* [Microbot Medical]()
+* [Sharp Health Care]()
+* [Sig Tuple]()
+* [Stereotaxis]()
+* [Titan Medical]()
+* [Transenterix]()
+* [Verb Surgical]()
 
 --------
 ### Drones
@@ -60,7 +64,7 @@ Sig Tuple (India)
 * [Aethon](https://aethon.com/)
 * [Agility Robotics](http://www.agilityrobotics.com/)
 * [Amazon Robotics](https://www.amazonrobotics.com/)
-* [Apptronik]((https://apptronik.com/)
+* [Apptronik](https://apptronik.com/)
 * [Barret](https://www.barrett.com/)
 * [Bossanova](https://www.bossanova.com/)
 * [Boston Dynamics](https://www.bostondynamics.com/)
