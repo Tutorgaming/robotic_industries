@@ -24,6 +24,8 @@ Sectors
 #### In-Door by Wheel
 
 * [Aethon](https://aethon.com/)
+* [Fetch Robotics (a)](https://fetchrobotics.com/)
+
 
 #### Out-Door by Leg
 
@@ -44,27 +46,29 @@ Sectors
   #### Manipulators and Gripper
    * [Barret](https://www.barrett.com/)
    * [Carbon Robotics](https://carbon.ai/)
+   
+  #### Mobile Manipulators
+   * [Fetch Robotics (b)](https://fetchrobotics.com/)
+
 
   #### UGV
    * [Clearpath Robotics](https://clearpathrobotics.com/)
   
   #### UAV
-   * [Clearpath Robotics](https://clearpathrobotics.com/)
+  * [DJI](https://www.dji.com/)
+
    
 ------- 
-### Others
-  
-  #### Automated Date Collection
+### Automated Data Collection
    * [Bossanova](https://www.bossanova.com/)
+   * [Fetch Robotics (c)](https://fetchrobotics.com/)
 
 
 ---------
 ### Industrial Robots
 
 * [ABB](https://new.abb.com/)
-* [DJI](https://www.dji.com/)
 * [Fanuc](https://www.fanuc.com/)
-* [Fetch Robotics](https://fetchrobotics.com/)
 * [Galen Robotics](http://www.galenrobotics.com/)
 * [Hebi Robotics](https://www.hebirobotics.com/)
 * [KUKA](https://www.kuka.com/en-in)
