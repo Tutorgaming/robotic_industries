@@ -39,20 +39,23 @@ Sectors
 ### Hardware
 
   #### Actuators
-    * [Apptronik](https://apptronik.com/)
+   * [Apptronik](https://apptronik.com/)
 
   #### Manipulators and Gripper
-    * [Barret](https://www.barrett.com/)
-    * [Carbon Robotics](https://carbon.ai/)
+   * [Barret](https://www.barrett.com/)
+   * [Carbon Robotics](https://carbon.ai/)
 
   #### UGV
-    * [Clearpath Robotics](https://clearpathrobotics.com/)
+   * [Clearpath Robotics](https://clearpathrobotics.com/)
   
-  ### UAV
-  * [Clearpath Robotics](https://clearpathrobotics.com/)
-
-  ### Others
-    * [Bossanova](https://www.bossanova.com/)
+  #### UAV
+   * [Clearpath Robotics](https://clearpathrobotics.com/)
+   
+------- 
+### Others
+  
+  #### Automated Date Collection
+   * [Bossanova](https://www.bossanova.com/)
 
 
 ---------
