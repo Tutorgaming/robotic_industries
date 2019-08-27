@@ -28,7 +28,8 @@ Sectors
    * [Reach Robotics](https://reachrobotics.com/)
 
 #### Cleaning
-
+   
+   * [Gaussian Robotics](https://www.gaussianrobotics.com/)
    * [iRobot](https://irobot.in/)
 
 
@@ -43,6 +44,7 @@ Sectors
 #### Pick, Sort, Pack
    * [Nimble Robotics](https://nimble.ai/)
    * [xyz Robotics](https://www.xyzrobotics.ai/)
+   * [Dorabot (a)](https://dorabot.com/)
 
 
 -------
@@ -87,7 +89,7 @@ Sectors
    
   #### Mobile Manipulators
    * [Fetch Robotics (c)](https://fetchrobotics.com/)
-
+   * [Dorabot (a)](https://dorabot.com/)
 
   #### UGV
    * [Clearpath Robotics](https://clearpathrobotics.com/)
