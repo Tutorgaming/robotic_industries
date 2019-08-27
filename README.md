@@ -16,7 +16,30 @@ Sectors
 --------
 ### Service Robots
 
-* [Aeolus Robotics](https://aeolusbot.com/)
+   * [Aeolus Robotics](https://aeolusbot.com/)
+   * [UBtech](https://ubtrobot.com/)
+
+#### Gaming
+
+   * [Reach Robotics](https://reachrobotics.com/)
+
+#### Cleaning
+
+   * [iRobot](https://irobot.in/)
+
+
+#### Automated Data Collection
+   * [Bossanova](https://www.bossanova.com/)
+   * [Fetch Robotics (c)](https://fetchrobotics.com/)
+   
+   
+#### Robotics Consultancy
+   * [PickNik](https://picknik.ai/)
+
+#### Pick, Sort, Pack
+   * [Nimble Robotics](https://nimble.ai/)
+   * [xyz Robotics](https://www.xyzrobotics.ai/)
+
 
 -------
 ### Transport Robots
@@ -26,7 +49,11 @@ Sectors
 * [Aethon](https://aethon.com/)
 * [Fetch Robotics (a)](https://fetchrobotics.com/)
 * [Locus Robotics](https://www.locusrobotics.com/)
+* [Swisslog](https://www.swisslog.com/)
 
+#### Out-Door by Wheel
+
+* [waymo](https://waymo.com/)
 
 
 #### Out-Door by Leg
@@ -64,12 +91,6 @@ Sectors
   * [DJI](https://www.dji.com/)
 
    
-------- 
-### Automated Data Collection
-   * [Bossanova](https://www.bossanova.com/)
-   * [Fetch Robotics (c)](https://fetchrobotics.com/)
-
-
 ---------
 ### Industrial Robots
 
@@ -77,15 +98,8 @@ Sectors
 * [Fanuc](https://www.fanuc.com/)
 * [KUKA](https://www.kuka.com/en-in)
 * [Kawasaki Robotics](https://robotics.kawasaki.com/en1/index.html?language_id=4)
-* [Nimble Robotics](https://nimble.ai/)
 * [Omron](https://robotics.omron.com/home/?region=us)
-* [PickNik](https://picknik.ai/)
-* [Reach Robotics](https://reachrobotics.com/)
-* [Swisslog](https://www.swisslog.com/)
-* [UBtech](https://ubtrobot.com/)
 * [Yaskawa](https://www.yaskawa.com/)
-* [iRobot](https://irobot.in/)
-* [xyz Robotics](https://www.xyzrobotics.ai/)
 
 --------
 ### Medical Robots
