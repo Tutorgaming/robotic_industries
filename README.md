@@ -9,6 +9,10 @@ Sectors
 -----------------
 
  * [Service Robots](https://github.com/ajaygunalan/Robotics-Company#service-robots)
+ * [Transport Robots](https://github.com/ajaygunalan/Robotics-Company#transport-robots)
+ * [Big Shots](https://github.com/ajaygunalan/Robotics-Company#big-shots)
+ * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
+ * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
  * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
 
 
@@ -30,7 +34,7 @@ Sectors
 
 #### Automated Data Collection
    * [Bossanova](https://www.bossanova.com/)
-   * [Fetch Robotics (c)](https://fetchrobotics.com/)
+   * [Fetch Robotics (a)](https://fetchrobotics.com/)
    
    
 #### Robotics Consultancy
@@ -47,7 +51,7 @@ Sectors
 #### In-Door by Wheel
 
 * [Aethon](https://aethon.com/)
-* [Fetch Robotics (a)](https://fetchrobotics.com/)
+* [Fetch Robotics (b)](https://fetchrobotics.com/)
 * [Locus Robotics](https://www.locusrobotics.com/)
 * [Swisslog](https://www.swisslog.com/)
 
@@ -66,6 +70,7 @@ Sectors
 * [Amazon Robotics](https://www.amazonrobotics.com/)
 * [Boston Dynamics](https://www.bostondynamics.com/)
 
+
 --------
 ### Hardware
 
@@ -81,7 +86,7 @@ Sectors
 
    
   #### Mobile Manipulators
-   * [Fetch Robotics (b)](https://fetchrobotics.com/)
+   * [Fetch Robotics (c)](https://fetchrobotics.com/)
 
 
   #### UGV
@@ -92,7 +97,7 @@ Sectors
 
    
 ---------
-### Industrial Robots
+### Traditional Industrial Robots
 
 * [ABB](https://new.abb.com/)
 * [Fanuc](https://www.fanuc.com/)
