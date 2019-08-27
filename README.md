@@ -25,6 +25,8 @@ Sectors
 
 * [Aethon](https://aethon.com/)
 * [Fetch Robotics (a)](https://fetchrobotics.com/)
+* [Locus Robotics](https://www.locusrobotics.com/)
+
 
 
 #### Out-Door by Leg
@@ -42,10 +44,14 @@ Sectors
 
   #### Actuators
    * [Apptronik](https://apptronik.com/)
+   * [Hebi Robotics](https://www.hebirobotics.com/)
+
 
   #### Manipulators and Gripper
    * [Barret](https://www.barrett.com/)
    * [Carbon Robotics](https://carbon.ai/)
+   * [Kinova Robotics](https://www.kinovarobotics.com/en)
+
    
   #### Mobile Manipulators
    * [Fetch Robotics (b)](https://fetchrobotics.com/)
@@ -69,12 +75,8 @@ Sectors
 
 * [ABB](https://new.abb.com/)
 * [Fanuc](https://www.fanuc.com/)
-* [Galen Robotics](http://www.galenrobotics.com/)
-* [Hebi Robotics](https://www.hebirobotics.com/)
 * [KUKA](https://www.kuka.com/en-in)
 * [Kawasaki Robotics](https://robotics.kawasaki.com/en1/index.html?language_id=4)
-* [Kinova Robotics](https://www.kinovarobotics.com/en)
-* [Locus Robotics](https://www.locusrobotics.com/)
 * [Nimble Robotics](https://nimble.ai/)
 * [Omron](https://robotics.omron.com/home/?region=us)
 * [PickNik](https://picknik.ai/)
@@ -92,6 +94,7 @@ Sectors
 * [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
 * [CMR Surgical](https://cmrsurgical.com/)
 * [Corindus](https://www.corindus.com/)
+* [Galen Robotics](http://www.galenrobotics.com/)
 * [Intuitive Surgical](https://www.intuitive.com/)
 * [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
 * [Mazor Robotics](https://www.mazorrobotics.com/en-us/)
