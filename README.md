@@ -40,6 +40,7 @@ Sectors
    
 #### Robotics Consultancy
    * [PickNik](https://picknik.ai/)
+   * [Energid](https://www.energid.com/)
 
 #### Pick, Sort, Pack
    * [Nimble Robotics](https://nimble.ai/)
