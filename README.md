@@ -25,12 +25,19 @@ Sectors
 
 * [Aethon](https://aethon.com/)
 
+### Out-Door by Leg
+
+* [Agility Robotics](http://www.agilityrobotics.com/)
+
+--------
+### Big Shots
+
+* [Amazon Robotics](https://www.amazonrobotics.com/)
+
 --------
 ### Industrial Robots
 
 * [ABB](https://new.abb.com/)
-* [Agility Robotics](http://www.agilityrobotics.com/)
-* [Amazon Robotics](https://www.amazonrobotics.com/)
 * [Apptronik](https://apptronik.com/)
 * [Barret](https://www.barrett.com/)
 * [Bossanova](https://www.bossanova.com/)
