@@ -139,11 +139,15 @@ Sectors
 * [Auro Robotics]()
 * [Csea Madine Robotics]()
 * [neurala]()
-Ghost Robotics
-Neato Robotics
-meso
-Vex Robotics
-Vecna Robotics
+* [Ghost Robotics]()
+* [Neato Robotics]()
+* [meso]()
+* [Vex Robotics]()
+* [Vecna Robotics]()
+* []()
+* []()
+* []()
+
 
 
 
