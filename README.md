@@ -145,7 +145,7 @@ Sectors
 * [meso]()
 * [Vex Robotics]()
 * [Vecna Robotics]()
-* []()
+* [Houston Mechatronics]()
 * []()
 * []()
 
