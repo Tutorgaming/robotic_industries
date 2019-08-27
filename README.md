@@ -35,23 +35,21 @@ Courses
 --------
 ### Medical Robotics
 
-* [Auris Health]()
-* [Blue Belt Technologies]()
-* [CMR Surgical's Versius]()
-* [Corindus Vascular Robotics]()
-* [Hansen Medical]()
-* [Intuitive Surgical]()
-* [Mako Surgical]()
-* [Mazor Robotics]()
-* [MedRobotics]()
-* [MedTech Innovative Surgical Technology]()
-* [Microbot Medical]()
-* [Sharp Health Care]()
-* [Sig Tuple]()
-* [Stereotaxis]()
-* [Titan Medical]()
-* [Transenterix]()
-* [Verb Surgical]()
+* [Auris Health](https://www.aurishealth.com/)
+* [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
+* [CMR Surgical](https://cmrsurgical.com/)
+* [Corindus](https://www.corindus.com/)
+* [Intuitive Surgical](https://www.intuitive.com/)
+* [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
+* [Mazor Robotics](https://www.mazorrobotics.com/en-us/)
+* [MedRobotics](https://medrobotics.com/)
+* [MedTech Innovative Surgical Technology](http://www.medtech.fr/)
+* [Microbot Medical](https://microbotmedical.com/)
+* [Sig Tuple](https://sigtuple.com/)
+* [Stereotaxis](http://www.stereotaxis.com/)
+* [Titan Medical](https://titanmedicalinc.com/)
+* [Transenterix](https://transenterix.com/)
+* [Verb Surgical](https://www.verbsurgical.com/)
 
 --------
 ### Drones
