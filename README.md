@@ -33,20 +33,24 @@ Sectors
 ### Big Shots
 
 * [Amazon Robotics](https://www.amazonrobotics.com/)
+* [Boston Dynamics](https://www.bostondynamics.com/)
 
 --------
 ### Hardware
 #### Actuators
 * [Apptronik](https://apptronik.com/)
 
+#### Manipulators and Gripper
+* [Barret](https://www.barrett.com/)
+
+### Others
+* [Bossanova](https://www.bossanova.com/)
+
 
 ---------
 ### Industrial Robots
 
 * [ABB](https://new.abb.com/)
-* [Barret](https://www.barrett.com/)
-* [Bossanova](https://www.bossanova.com/)
-* [Boston Dynamics](https://www.bostondynamics.com/)
 * [Carbon Robotics](https://carbon.ai/)
 * [Clearpath Robotics](https://clearpathrobotics.com/)
 * [DJI](https://www.dji.com/)
