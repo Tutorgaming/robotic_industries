@@ -25,7 +25,7 @@ Sectors
 
 * [Aethon](https://aethon.com/)
 
-### Out-Door by Leg
+#### Out-Door by Leg
 
 * [Agility Robotics](http://www.agilityrobotics.com/)
 
