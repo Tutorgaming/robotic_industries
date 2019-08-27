@@ -3,7 +3,7 @@
 Introduction
 ------------
 
-There is a lot of ~~hidden~~ treasure lying scattered across the internet. This list is an attempt to bring to light those awesome robotics company.
+There is a lot of ~~hidden~~ robotics companies lying scattered across the internet. This list is an attempt to bring to light those awesome robotics company.
 
 Sectors
 -----------------
