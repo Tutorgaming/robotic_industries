@@ -35,10 +35,15 @@ Sectors
 * [Amazon Robotics](https://www.amazonrobotics.com/)
 
 --------
+### Hardware
+#### Actuators
+* [Apptronik](https://apptronik.com/)
+
+
+---------
 ### Industrial Robots
 
 * [ABB](https://new.abb.com/)
-* [Apptronik](https://apptronik.com/)
 * [Barret](https://www.barrett.com/)
 * [Bossanova](https://www.bossanova.com/)
 * [Boston Dynamics](https://www.bostondynamics.com/)
