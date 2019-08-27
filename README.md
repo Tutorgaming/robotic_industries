@@ -17,20 +17,15 @@ Table of Contents
 7. [Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#industrial-robots)
 
 
-Courses
+Sectors
 -------
 
 --------
-### Humanoid
+### Service Robots
 
---------
-### Manipulators
+* [Aeolus Robotics](https://aeolusbot.com/)
 
---------
-### Legged
 
---------
-### Actuator
 
 --------
 ### Medical Robotics
@@ -58,7 +53,6 @@ Courses
 ### Industrial Robots
 
 * [ABB](https://new.abb.com/)
-* [Aeolus Robotics](https://aeolusbot.com/)
 * [Aethon](https://aethon.com/)
 * [Agility Robotics](http://www.agilityrobotics.com/)
 * [Amazon Robotics](https://www.amazonrobotics.com/)
