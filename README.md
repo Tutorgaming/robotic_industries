@@ -14,7 +14,7 @@ Sectors
  * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
  * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
  * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
- * [Dump](https://github.com/ajaygunalan/Robotics-Company#dump)
+ * [Dump](https://github.com/ajaygunalan/Robotics-Company#dump) (To sort later)
 
 
 
@@ -58,6 +58,7 @@ Sectors
 * [Fetch Robotics (b)](https://fetchrobotics.com/)
 * [Locus Robotics](https://www.locusrobotics.com/)
 * [Swisslog](https://www.swisslog.com/)
+* [Grey Orange](https://www.greyorange.com/in/en/)
 
 #### Out-Door by Wheel
 
