@@ -14,6 +14,7 @@ Sectors
  * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
  * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
  * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
+ * [Dump](https://github.com/ajaygunalan/Robotics-Company#dump)
 
 
 
@@ -131,6 +132,19 @@ Sectors
 * [Titan Medical](https://titanmedicalinc.com/)
 * [Transenterix](https://transenterix.com/)
 * [Verb Surgical](https://www.verbsurgical.com/)
+
+--------
+### Dump
+* [American Robotics]()
+* [Auro Robotics]()
+* [Csea Madine Robotics]()
+* [neurala]()
+Ghost Robotics
+Neato Robotics
+meso
+Vex Robotics
+Vecna Robotics
+
 
 
 
