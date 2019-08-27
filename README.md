@@ -12,8 +12,6 @@ Sectors
  * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
 
 
-Sectors
--------
 
 --------
 ### Service Robots
