@@ -51,6 +51,7 @@ Sectors
    * [Nimble Robotics](https://nimble.ai/)
    * [xyz Robotics](https://www.xyzrobotics.ai/)
    * [Dorabot (a)](https://dorabot.com/)
+   * [Right Hand Robotics](https://www.righthandrobotics.com/)
 
 
 -------
@@ -70,7 +71,7 @@ Sectors
 
 * [waymo](https://waymo.com/)
 * [Auro Robotics](http://auro.ai/)
-
+* [Jaybridge Robotics](http://www.jaybridge.com/#home)
 
 
 #### Out-Door by Leg
@@ -81,14 +82,15 @@ Sectors
 --------
 ### Agricultural Robotics
 
-#### Drone
 * [American Robotics](https://www.american-robotics.com/)
+* [public harvestai](https://www.public.harvestai.com/)
 
 
 --------
 ### Water Robots
 
 * [Houston Mechatronics](https://www.houstonmechatronics.com/)
+* [Sea Machines](https://sea-machines.com/)
 
  
  
@@ -111,6 +113,7 @@ Sectors
    * [Barret](https://www.barrett.com/)
    * [Carbon Robotics](https://carbon.ai/)
    * [Kinova Robotics](https://www.kinovarobotics.com/en)
+   * [Rethink Robotics](https://www.rethinkrobotics.com/)
 
    
   #### Mobile Manipulators
