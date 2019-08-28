@@ -10,8 +10,8 @@ Sectors
 
  * [Service Robots](https://github.com/ajaygunalan/Robotics-Company#service-robots)
  * [Transport Robots](https://github.com/ajaygunalan/Robotics-Company#transport-robots)
- * [Agricultural Robots]((https://github.com/ajaygunalan/Robotics-Company#agricultural-robots)
- * [Water Robots]((https://github.com/ajaygunalan/Robotics-Company#water-robots)
+ * [Agricultural Robots](https://github.com/ajaygunalan/Robotics-Company#agricultural-robots)
+ * [Water Robots](https://github.com/ajaygunalan/Robotics-Company#water-robots)
  * [Big Shots](https://github.com/ajaygunalan/Robotics-Company#big-shots)
  * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
  * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
@@ -38,7 +38,7 @@ Sectors
 
 #### Automated Data Collection
    * [Bossanova](https://www.bossanova.com/)
-   * [Fetch Robotics (a)](https://fetchrobotics.com
+   * [Fetch Robotics (a)](https://fetchrobotics.com)
    
 #### Cooking
 * [miso](https://misorobotics.com/)
