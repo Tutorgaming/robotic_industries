@@ -10,6 +10,8 @@ Sectors
 
  * [Service Robots](https://github.com/ajaygunalan/Robotics-Company#service-robots)
  * [Transport Robots](https://github.com/ajaygunalan/Robotics-Company#transport-robots)
+ * [Agricultural Robots]((https://github.com/ajaygunalan/Robotics-Company#agricultural-robots)
+ * [Water Robots]((https://github.com/ajaygunalan/Robotics-Company#water-robots)
  * [Big Shots](https://github.com/ajaygunalan/Robotics-Company#big-shots)
  * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
  * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
@@ -32,12 +34,14 @@ Sectors
    
    * [Gaussian Robotics](https://www.gaussianrobotics.com/)
    * [iRobot](https://irobot.in/)
-
+   * [Neato Robotics](https://www.neatorobotics.com/)
 
 #### Automated Data Collection
    * [Bossanova](https://www.bossanova.com/)
-   * [Fetch Robotics (a)](https://fetchrobotics.com/)
+   * [Fetch Robotics (a)](https://fetchrobotics.com
    
+#### Cooking
+* [miso](https://misorobotics.com/)
    
 #### Robotics Consultancy
    * [PickNik](https://picknik.ai/)
@@ -59,16 +63,35 @@ Sectors
 * [Locus Robotics](https://www.locusrobotics.com/)
 * [Swisslog](https://www.swisslog.com/)
 * [Grey Orange](https://www.greyorange.com/in/en/)
+* [Vecna Robotics](https://www.vecnarobotics.com/)
+
 
 #### Out-Door by Wheel
 
 * [waymo](https://waymo.com/)
+* [Auro Robotics](http://auro.ai/)
+
 
 
 #### Out-Door by Leg
 
 * [Agility Robotics](http://www.agilityrobotics.com/)
+* [Ghost Robotics](https://www.ghostrobotics.io/)
 
+--------
+### Agricultural Robotics
+
+#### Drone
+* [American Robotics](https://www.american-robotics.com/)
+
+
+--------
+### Water Robots
+
+* [Houston Mechatronics](https://www.houstonmechatronics.com/)
+
+ 
+ 
 --------
 ### Big Shots
 
@@ -136,18 +159,8 @@ Sectors
 
 --------
 ### Dump
-* [American Robotics]()
-* [Auro Robotics]()
-* [Csea Madine Robotics]()
-* [neurala]()
-* [Ghost Robotics]()
-* [Neato Robotics]()
-* [meso]()
-* [Vex Robotics]()
-* [Vecna Robotics]()
-* [Houston Mechatronics]()
-* []()
-* []()
+
+
 
 
 
