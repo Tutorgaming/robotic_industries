@@ -159,6 +159,7 @@ Sectors
 * [Titan Medical](https://titanmedicalinc.com/)
 * [Transenterix](https://transenterix.com/)
 * [Verb Surgical](https://www.verbsurgical.com/)
+* [Galen Robotics](https://www.galenrobotics.com/)
 
 --------
 ### Dump
