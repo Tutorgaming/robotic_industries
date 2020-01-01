@@ -143,10 +143,13 @@ Sectors
 --------
 ### Medical Robots
 
+* [Research Lab](https://docs.google.com/spreadsheets/d/1IFUE6w8FKNBE1o3-yAa7_CSHeQptzb948gyhCDJfz5Y/edit?usp=sharing)
+ 
 * [Auris Health](https://www.aurishealth.com/)
 * [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
 * [CMR Surgical](https://cmrsurgical.com/)
 * [Corindus](https://www.corindus.com/)
+* [EasyEndo surgical](http://easyendosurgical.com/)
 * [Galen Robotics](http://www.galenrobotics.com/)
 * [Intuitive Surgical](https://www.intuitive.com/)
 * [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
@@ -156,6 +159,9 @@ Sectors
 * [Microbot Medical](https://microbotmedical.com/)
 * [Sig Tuple](https://sigtuple.com/)
 * [Stereotaxis](http://www.stereotaxis.com/)
+* [Straub Medical AG](http://www.straubmedical.com/en/)
+* [usono](https://www.usono.com/)
+* [Think Surgical](https://thinksurgical.com/) 
 * [Titan Medical](https://titanmedicalinc.com/)
 * [Transenterix](https://transenterix.com/)
 * [Verb Surgical](https://www.verbsurgical.com/)
