@@ -141,10 +141,9 @@ Sectors
 * [Yaskawa](https://www.yaskawa.com/)
 
 --------
-### Medical Robots
 
-* [Research Lab](https://docs.google.com/spreadsheets/d/1IFUE6w8FKNBE1o3-yAa7_CSHeQptzb948gyhCDJfz5Y/edit?usp=sharing)
- 
+### Medical Robots
+* [Research Lab](https://docs.google.com/spreadsheets/d/1IFUE6w8FKNBE1o3-yAa7_CSHeQptzb948gyhCDJfz5Y/edit?usp=sharing) 
 * [Auris Health](https://www.aurishealth.com/)
 * [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
 * [CMR Surgical](https://cmrsurgical.com/)
