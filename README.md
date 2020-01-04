@@ -158,6 +158,7 @@ Sectors
 * [MedTech Innovative Surgical Technology](http://www.medtech.fr/)
 * [Microbot Medical](https://microbotmedical.com/)
 * [Sig Tuple](https://sigtuple.com/)
+* [Smart Medical Devices](https://smartmeddevices.com/)
 * [Stereotaxis](http://www.stereotaxis.com/)
 * [Straub Medical AG](http://www.straubmedical.com/en/)
 * [usono](https://www.usono.com/)
