@@ -149,6 +149,7 @@ Sectors
 * [CMR Surgical](https://cmrsurgical.com/)
 * [Corindus](https://www.corindus.com/)
 * [EasyEndo surgical](http://easyendosurgical.com/)
+* [EndoTheia Inc](https://patentimages.storage.googleapis.com/c6/a8/60/abcef3bbcd4987/US10307214.pdf)
 * [Galen Robotics](http://www.galenrobotics.com/)
 * [Intuitive Surgical](https://www.intuitive.com/)
 * [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
@@ -165,6 +166,7 @@ Sectors
 * [Titan Medical](https://titanmedicalinc.com/)
 * [Transenterix](https://transenterix.com/)
 * [Verb Surgical](https://www.verbsurgical.com/)
+* [Virtuoso Surgical, Inc](https://virtuososurgical.net/)
 * [Galen Robotics](https://www.galenrobotics.com/)
 
 --------
