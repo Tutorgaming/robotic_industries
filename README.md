@@ -7,7 +7,9 @@ There is a lot of ~~hidden~~ robotics companies lying scattered across the inter
 
 Sectors
 -----------------
-
+ * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
+ 
+ 
  * [Service Robots](https://github.com/ajaygunalan/Robotics-Company#service-robots)
  * [Transport Robots](https://github.com/ajaygunalan/Robotics-Company#transport-robots)
  * [Agricultural Robots](https://github.com/ajaygunalan/Robotics-Company#agricultural-robots)
@@ -15,12 +17,44 @@ Sectors
  * [Big Shots](https://github.com/ajaygunalan/Robotics-Company#big-shots)
  * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
  * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
- * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
+
  * [Dump](https://github.com/ajaygunalan/Robotics-Company#dump) (To sort later)
 
 
 
 --------
+
+### Medical Robots
+* [Research Lab](https://docs.google.com/spreadsheets/d/1IFUE6w8FKNBE1o3-yAa7_CSHeQptzb948gyhCDJfz5Y/edit?usp=sharing) 
+* [Auris Health](https://www.aurishealth.com/)
+* [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
+* [CMR Surgical](https://cmrsurgical.com/)
+* [Corindus](https://www.corindus.com/)
+* [EasyEndo surgical](http://easyendosurgical.com/)
+* [EndoTheia Inc](https://patentimages.storage.googleapis.com/c6/a8/60/abcef3bbcd4987/US10307214.pdf)
+* [Galen Robotics](http://www.galenrobotics.com/)
+* [Intuitive Surgical](https://www.intuitive.com/)
+* [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
+* [Mazor Robotics](https://www.mazorrobotics.com/en-us/)
+* [MedRobotics](https://medrobotics.com/)
+* [MedTech Innovative Surgical Technology](http://www.medtech.fr/)
+* [Microbot Medical](https://microbotmedical.com/)
+* [Sig Tuple](https://sigtuple.com/)
+* [Smart Medical Devices](https://smartmeddevices.com/)
+* [Stereotaxis](http://www.stereotaxis.com/)
+* [Straub Medical AG](http://www.straubmedical.com/en/)
+* [usono](https://www.usono.com/)
+* [Think Surgical](https://thinksurgical.com/) 
+* [Titan Medical](https://titanmedicalinc.com/)
+* [Transenterix](https://transenterix.com/)
+* [Verb Surgical](https://www.verbsurgical.com/)
+* [Virtuoso Surgical, Inc](https://virtuososurgical.net/)
+* [Galen Robotics](https://www.galenrobotics.com/)
+
+
+### Biomedical Optics
+
+
 ### Service Robots
 
    * [Aeolus Robotics](https://aeolusbot.com/)
@@ -142,32 +176,6 @@ Sectors
 
 --------
 
-### Medical Robots
-* [Research Lab](https://docs.google.com/spreadsheets/d/1IFUE6w8FKNBE1o3-yAa7_CSHeQptzb948gyhCDJfz5Y/edit?usp=sharing) 
-* [Auris Health](https://www.aurishealth.com/)
-* [Blue Belt Technologies](http://www.smith-nephew.com/professional/microsites/navio/)
-* [CMR Surgical](https://cmrsurgical.com/)
-* [Corindus](https://www.corindus.com/)
-* [EasyEndo surgical](http://easyendosurgical.com/)
-* [EndoTheia Inc](https://patentimages.storage.googleapis.com/c6/a8/60/abcef3bbcd4987/US10307214.pdf)
-* [Galen Robotics](http://www.galenrobotics.com/)
-* [Intuitive Surgical](https://www.intuitive.com/)
-* [Mako Surgical](https://www.stryker.com/us/en/portfolios/orthopaedics/joint-replacement/mako-robotic-arm-assisted-surgery.html)
-* [Mazor Robotics](https://www.mazorrobotics.com/en-us/)
-* [MedRobotics](https://medrobotics.com/)
-* [MedTech Innovative Surgical Technology](http://www.medtech.fr/)
-* [Microbot Medical](https://microbotmedical.com/)
-* [Sig Tuple](https://sigtuple.com/)
-* [Smart Medical Devices](https://smartmeddevices.com/)
-* [Stereotaxis](http://www.stereotaxis.com/)
-* [Straub Medical AG](http://www.straubmedical.com/en/)
-* [usono](https://www.usono.com/)
-* [Think Surgical](https://thinksurgical.com/) 
-* [Titan Medical](https://titanmedicalinc.com/)
-* [Transenterix](https://transenterix.com/)
-* [Verb Surgical](https://www.verbsurgical.com/)
-* [Virtuoso Surgical, Inc](https://virtuososurgical.net/)
-* [Galen Robotics](https://www.galenrobotics.com/)
 
 --------
 ### Dump
