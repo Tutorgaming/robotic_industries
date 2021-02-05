@@ -7,16 +7,16 @@ There is a lot of ~~hidden~~ robotics companies lying scattered across the inter
 
 Sectors
 -----------------
- * [Medical Robots](https://github.com/ajaygunalan/Robotics-Company#medical-robots)
+ * [Medical Robots](#medical-robots)
  * [Biomedical Optics](#biomedical-optics)
- * [Service Robots](https://github.com/ajaygunalan/Robotics-Company#service-robots)
- * [Transport Robots](https://github.com/ajaygunalan/Robotics-Company#transport-robots)
- * [Agricultural Robots](https://github.com/ajaygunalan/Robotics-Company#agricultural-robots)
- * [Water Robots](https://github.com/ajaygunalan/Robotics-Company#water-robots)
- * [Big Shots](https://github.com/ajaygunalan/Robotics-Company#big-shots)
- * [Hardware](https://github.com/ajaygunalan/Robotics-Company#hardware)
- * [Traditional Industrial Robots](https://github.com/ajaygunalan/Robotics-Company#traditional-industrial-robots)
- * [Dump](https://github.com/ajaygunalan/Robotics-Company#dump) (To sort later)
+ * [Service Robots](#service-robots)
+ * [Transport Robots](#transport-robots)
+ * [Agricultural Robots](#agricultural-robots)
+ * [Water Robots](#water-robots)
+ * [Big Shots](#big-shots)
+ * [Hardware](#hardware)
+ * [Traditional Industrial Robots](y#traditional-industrial-robots)
+ * [Dump](#dump) (To sort later)
 
 
 --------
