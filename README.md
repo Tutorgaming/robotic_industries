@@ -53,18 +53,18 @@ Sectors
 
  * [Perimeter Medical](https://www.perimetermed.com/)
  * [LL Tech](http://www.lltech.co/)
- * [Michelson Diagnostics](https://vivosight.com/)
+ * [Michelson Diagnostics](https://vivosight.com/):
  skin disease.
- * [Diagnostic Photonics](http://diagnosticphotonics.com/)
- -iOCT & handheld probes for in-vivo imaging of surgical cavity in breast cancer.
- * [Tomophase](http://www.tomophase.com/)
+ * [Diagnostic Photonics](http://diagnosticphotonics.com/): 
+ iOCT & handheld probes for in-vivo imaging of surgical cavity in breast cancer.
+ * [Tomophase](http://www.tomophase.com/):
  catheter based OCT probes for lung cancer.
- * [Nine Point](https://www.businesswire.com/news/home/20190807005030/en/NinePoint-Medical-Announces-FDA-Clearance-for-Pancreatic-and-Biliary-Applications-of-the-NvisionVLE%C2%AE-Imaging-System)
- Sold to Merit. 
- * [Mini Probes](https://www.miniprobes.com/), [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
+ * [Nine Point](https://www.businesswire.com/news/home/20190807005030/en/NinePoint-Medical-Announces-FDA-Clearance-for-Pancreatic-and-Biliary-Applications-of-the-NvisionVLE%C2%AE-Imaging-System):
+ sold to merit. 
+ * [Mini Probes](https://www.miniprobes.com/):, [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
  Needle probes for Brain Cancer Imaging.
  * [OCT Medical Imaging](http://octmedicalimaging.com/)
- * [infraredx](https://www.infraredx.com/)
+ * [infraredx](https://www.infraredx.com/):
  IVUS + Spectrometer for arteries
  
 
