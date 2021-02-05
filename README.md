@@ -53,12 +53,16 @@ Sectors
 
  * [Perimeter Medical](https://www.perimetermed.com/)
  * [LL Tech](http://www.lltech.co/)
- * []()
- * []()
- * []()
- * []()
- * []()
- * []()
+ * [Michelson Diagnostics](https://vivosight.com/)
+ - Skin disease.
+ * [Diagnostic Photonics](http://diagnosticphotonics.com/)
+ -iOCT & handheld probes for in-vivo imaging of surgical cavity in breast cancer.
+ * [Tomophase](http://www.tomophase.com/)
+ catheter based OCT probes for lung cancer.
+ * [Nine Point]()
+ * [Mini Probes](https://www.miniprobes.com/)
+ Needle probes for Brain Cancer Imaging.
+ * [OCT Medical Imaging](http://octmedicalimaging.com/)
  
 
 
