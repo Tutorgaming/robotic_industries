@@ -63,9 +63,11 @@ Sectors
  Ballon-based catheter for GI. sold to merit. [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
  * [Mini Probes](https://www.miniprobes.com/):  Needle probes for Brain Cancer Imaging.
  * [OCT Medical Imaging](http://octmedicalimaging.com/)
-  * [Castor Optics](http://www.castoroptics.com/)
+ * [Castor Optics](http://www.castoroptics.com/)
  * [infraredx](https://www.infraredx.com/):
  IVUS + Spectrometer for arteries
+ * [Aperiomics](https://aperiomics.com/)
+
  
 
 
