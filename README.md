@@ -64,6 +64,7 @@ Sectors
  * [Mini Probes](https://www.miniprobes.com/):, [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
  Needle probes for Brain Cancer Imaging.
  * [OCT Medical Imaging](http://octmedicalimaging.com/)
+  * [Castor Optics](http://www.castoroptics.com/)
  * [infraredx](https://www.infraredx.com/):
  IVUS + Spectrometer for arteries
  
