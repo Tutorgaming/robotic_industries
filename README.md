@@ -60,9 +60,9 @@ Sectors
  * [Tomophase](http://www.tomophase.com/):
  catheter based OCT probes for lung cancer.
  * [Nine Point](https://www.businesswire.com/news/home/20190807005030/en/NinePoint-Medical-Announces-FDA-Clearance-for-Pancreatic-and-Biliary-Applications-of-the-NvisionVLE%C2%AE-Imaging-System):
- sold to merit. [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
- Needle probes for Brain Cancer Imaging.
- * [Mini Probes](https://www.miniprobes.com/): 
+ Ballob'based catheter for GI. sold to merit. [.pdf](https://www.merit.com/wp-content/uploads/2019/03/NVisionVLE-brochure.pdf)
+
+ * [Mini Probes](https://www.miniprobes.com/):  Needle probes for Brain Cancer Imaging.
  * [OCT Medical Imaging](http://octmedicalimaging.com/)
   * [Castor Optics](http://www.castoroptics.com/)
  * [infraredx](https://www.infraredx.com/):
