@@ -73,16 +73,15 @@ Sectors
 
 * [Carl Zeiss NediTech](https://www.zeiss.com/meditec/int/home.html)
 * [LightLab Imaging](https://www.invasivecardiology.com/St-Jude-Medical-Completes-Acquisition-LightLab-Imaging)
-* [Imalux Corporation]()
-* [ISIS Optronics]()
-* [OCT Medical Imaging]()
-* [Novacam Technologies]()
+* [Imalux Corporation](https://www.crunchbase.com/organization/imalux-corporationhttps://www.crunchbase.com/organization/imalux-corporation)
+* [ISIS Optronics](http://www.octnews.org/articles/2708931/isis-optronics-gmbh-out-of-business/)
+* [Novacam Technologies](https://www.novacam.com/)
 * [Lantis Laser Incorporated]()
-* [OptoVue ]()
-* [Topcon]()
-* [Optol Technology]()
-* [Heidelberg Engineering]()
-* [Opthalmic Technologies]()
+* [OptoVue ](https://www.optovue.com/)
+* [Topcon](https://www.topcon.co.jp/en/about/)
+* [Optol Technology](http://www.optopol.com/)
+* [Heidelberg Engineering](https://www.heidelbergengineering.com/int/)
+* [Ophthalmic Technologies Inc. (OTI) of Toronto](http://www.companylisting.ca/Ophthalmic_Technologies_Inc/default.aspx)
 
 
 ### Service Robots
