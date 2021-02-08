@@ -84,6 +84,8 @@ Sectors
 * [Optol Technology](http://www.optopol.com/)
 * [Heidelberg Engineering](https://www.heidelbergengineering.com/int/)
 * [Ophthalmic Technologies Inc. (OTI) of Toronto](http://www.companylisting.ca/Ophthalmic_Technologies_Inc/default.aspx)
+* [Femtolasers](https://www.spectra-physics.com/)
+* [Menlosystems](https://www.menlosystems.com/)
 
 
 ### Service Robots
