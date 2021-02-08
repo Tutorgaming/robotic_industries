@@ -9,6 +9,7 @@ Sectors
 -----------------
  * [Medical Robots](#medical-robots)
  * [Biomedical Optics](#biomedical-optics)
+ * [Biomedical Optics](#biomedical-optics)
  * [Service Robots](#service-robots)
  * [Transport Robots](#transport-robots)
  * [Agricultural Robots](#agricultural-robots)
@@ -50,7 +51,6 @@ Sectors
 
 
 ### Biomedical Optics
-
  * [Perimeter Medical](https://www.perimetermed.com/)
  * [LL Tech](http://www.lltech.co/)
  * [Michelson Diagnostics](https://vivosight.com/):
@@ -69,6 +69,20 @@ Sectors
  * [Aperiomics](https://aperiomics.com/)
 
  
+### Traditional OCT
+
+* [Carl Zeiss NediTech](https://www.zeiss.com/meditec/int/home.html)
+* [LightLab Imaging](https://www.invasivecardiology.com/St-Jude-Medical-Completes-Acquisition-LightLab-Imaging)
+* [Imalux Corporation]()
+* [ISIS Optronics]()
+* [OCT Medical Imaging]()
+* [Novacam Technologies]()
+* [Lantis Laser Incorporated]()
+* [OptoVue ]()
+* [Topcon]()
+* [Optol Technology]()
+* [Heidelberg Engineering]()
+* [Opthalmic Technologies]()
 
 
 ### Service Robots
