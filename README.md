@@ -9,7 +9,7 @@ Sectors
 -----------------
  * [Medical Robots](#medical-robots)
  * [Biomedical Optics](#biomedical-optics)
- * [Biomedical Optics](#biomedical-optics)
+ * [Traditional OCT](#traditional-oct)
  * [Service Robots](#service-robots)
  * [Transport Robots](#transport-robots)
  * [Agricultural Robots](#agricultural-robots)
