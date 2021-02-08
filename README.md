@@ -51,6 +51,8 @@ Sectors
 
 
 ### Biomedical Optics
+
+* **[Some Historical Statistics on Companies in the Market of Optical Coherence Tomography Systems](http://www.octnews.org/articles/4111178/some-historical-statistics-on-companies-in-the-mar/)**
  * [Perimeter Medical](https://www.perimetermed.com/)
  * [LL Tech](http://www.lltech.co/)
  * [Michelson Diagnostics](https://vivosight.com/):
