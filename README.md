@@ -69,6 +69,7 @@ Sectors
  * [infraredx](https://www.infraredx.com/):
  IVUS + Spectrometer for arteries
  * [Aperiomics](https://aperiomics.com/)
+ * [Opticent Health](https://www.opticenthealth.com/)
 
  
 ### Traditional OCT
