@@ -74,7 +74,8 @@ Sectors
 
 
 ### Biomedical Research Lab
-* [Northwestern University](http://foil.northwestern.edu/)
+* [Northwestern University (Hao F. Zhang)](http://foil.northwestern.edu/)
+* [CHUK (YUAN Wu, Scott)](http://www.bme.cuhk.edu.hk/yuan/people.html)
 
 
  
